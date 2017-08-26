@@ -1,1 +1,1 @@
-test 2 file for multiple commit, is the file of master edited
+test 2 file for multiple commit, is the file of master edited manish
